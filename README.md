@@ -3,11 +3,11 @@
 
 About Me
 
-I am currently taking a course through CircuitStream, endorsed by The University of British Columbia, to learn Unity and C#. My goal is to break into the gaming industry and share my passion for creating engaging and immersive experiences.
+I am a happily married father of two wonderful girls and have been passionate about video games since I was 5 years old, starting with my first Atari system. For over two decades, I’ve worked in warehousing and retail, but I’m now pursuing a career in the gaming industry to align my profession with my lifelong passion.
 
-I enjoy developing 3rd person games, survival games, first-person games, and platformers, and I aim to combine elements of exploration, combat, and storytelling in my projects. My portfolio will showcase games I’ve worked on during my course, as well as personal creations that highlight my skills and creativity.
+I am currently taking a course through CircuitStream, endorsed by The University of British Columbia, to learn Unity and C#. My focus is on developing 3rd person games, survival games, first-person games, and platformers, blending exploration, combat, and storytelling.
 
-I’m excited to bring my ideas to life and contribute to the world of gaming. 
+I am actively seeking full-time remote work in the gaming industry, where I can bring my creativity and skills to life. Through this journey, I aim to create immersive experiences and showcase my work through a portfolio of course projects and personal creations. I’m excited to make a meaningful impact in the gaming world. 
 
 
 ## 🔗 Links
